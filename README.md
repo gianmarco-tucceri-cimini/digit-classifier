@@ -4,9 +4,9 @@ This project shows how to use machine learning models to analyze digit images. I
 
 ---
 ## Content of the notebooks
-1. [Explorative data analysis](https://github.com/andrea-cadeddu/digit_classifier/blob/main/01.explorative_data_analysis.ipynb)
-2. [Model training](https://github.com/andrea-cadeddu/digit_classifier/blob/main/02.train_model.ipynb)
-3. [Web app creation](https://github.com/andrea-cadeddu/digit_classifier/blob/main/03.web_app.py)
+1. [Explorative data analysis](https://github.com/gianmarco-tucceri-cimini/digit-classifier/blob/main/01.explorative_data_analysis.ipynb)
+2. [Model training](https://github.com/gianmarco-tucceri-cimini/digit-classifier/blob/main/02.train_model.ipynb)
+3. [Web app creation](https://github.com/gianmarco-tucceri-cimini/digit-classifier/blob/main/03.web_app.py)
 
 ---
 
@@ -30,4 +30,4 @@ pip install -r requirements.txt
 
 ## Use notebooks online
 Thanks to [Binder](https://mybinder.org/), it is possible to interact and run these notebooks online
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/andrea-cadeddu/digit_classifier/HEAD).
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gianmarco-tucceri-cimini/digit-classifier/HEAD).
